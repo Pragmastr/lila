@@ -35,7 +35,7 @@
   <string name="fullDescriptionHelp">وصف تفصيلي اختياري للفعالية. يمكنك استخدام %1$s للاطّلاع على خيارات تنسيق إضافية. يجب ألا يتجاوز الطول %2$s حرفًا.</string>
   <string name="sourceSingleUrl">رابط مصدر PGN</string>
   <string name="sourceUrlHelp">عنوان URL الذي سيتحقق منه ليتشيس للحصول على تحديثات PGN. يجب أن يكون متاحا للجميع من الإنترنت.</string>
-  <string name="sourceGameIds">حتى 64 معرف لُعْبَة ليتشيس، مفصولة بمسافات.</string>
+  <string name="sourceGameIds">حتى 64 معرّفًا لمباريات ليشيس، مفصولة بمسافات.</string>
   <string name="startDateTimeZone">موعد البداية بتوقيت البطولة المحلي: %s</string>
   <string name="startDateHelp">اختياري، إذا كنت تعرف متى يبدأ الحدث</string>
   <string name="currentGameUrl">رابط المباراة الحالية</string>
@@ -56,7 +56,7 @@
   <string name="fideProfile">مِلَفّ FIDE</string>
   <string name="federation">إتحاد</string>
   <string name="age">العمر</string>
-  <string name="unrated">غير مقيم</string>
+  <string name="unrated">غير مُصنَّف</string>
   <string name="recentTournaments">البطولات الأخيرة</string>
   <string name="openLichess">افتح في ليتشيس</string>
   <string name="teams">الفِرق</string>

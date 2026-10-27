@@ -1,2 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+  <string name="makesPerfect">makes your chess perfect</string>
+  <string name="signUpToSaveYourProgress">Sign up to save your progress</string>
+  <string name="secHeadCheckmates">Checkmates</string>
+  <string name="secHeadFundamentalTactics">Fundamental tactics</string>
+  <string name="secHeadAdvancedTactics">Advanced tactics</string>
+  <string name="secHeadPawnEndgames">Pawn Endgames</string>
+  <string name="secHeadRookEndgames">Rook Endgames</string>
+  <string name="stNamPieceCheckmatesI">Piece Checkmates I</string>
+  <string name="stNamCheckmatePatternsI">Checkmate Patterns I</string>
+  <string name="stNamCheckmatePatternsII">Checkmate Patterns II</string>
+  <string name="stNamCheckmatePatternsIII">Checkmate Patterns III</string>
+  <string name="stNamCheckmatePatternsIV">Checkmate Patterns IV</string>
+  <string name="stNamPieceCheckmatesII">Piece Checkmates II</string>
+  <string name="stNamKnightAndBishopMate">Knight &amp; Bishop Mate</string>
+  <string name="stNamThePin">The Pin</string>
+  <string name="stNamTheSkewer">The Skewer</string>
+  <string name="stNamTheFork">The Fork</string>
+  <string name="stNamDiscoveredAttacks">Discovered Attacks</string>
+  <string name="stNamDoubleCheck">Double Check</string>
+  <string name="stNamOverloadedPieces">Overloaded Pieces</string>
+  <string name="stNamZwischenzug">Zwischenzug</string>
+  <string name="stNamXRay">X-Ray</string>
+  <string name="stNamZugzwang">Zugzwang</string>
+</resources>

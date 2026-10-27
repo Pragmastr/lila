@@ -19,4 +19,5 @@
   <string name="sleep">Dormir (se a palavra-chave estiver ativada)</string>
   <string name="showPuzzleSolution">Mostrar solução do problema</string>
   <string name="microphone">Microfone</string>
+  <string name="noneSelected">Nenhum selecionado</string>
 </resources>
